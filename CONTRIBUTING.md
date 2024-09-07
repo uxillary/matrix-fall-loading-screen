@@ -4,6 +4,8 @@
 
 Thank you for considering contributing to the Matrix Fall Loading Screen project! Whether you're fixing a bug, adding a new feature, or improving documentation, your contributions are greatly appreciated.
 
+This is an ideal beginner project and good for first issue contributions. Designed for collobaration, practice and re-use.
+
 ## How to Contribute
 
 ### 1. Fork the Repository
@@ -15,8 +17,10 @@ Thank you for considering contributing to the Matrix Fall Loading Screen project
   ```
 
 ### 2. Create a Branch
-- Create a new branch for your contribution:
+Create a new branch for your contribution:
+  ```
   git checkout -b your-feature-branch
+  ```
 
 ### 3. Make Your Changes
 - Implement your changes in the appropriate files.
@@ -24,25 +28,27 @@ Thank you for considering contributing to the Matrix Fall Loading Screen project
 - Test your changes thoroughly to ensure everything works as expected.
 
 ### 4. Commit Your Changes
-- Once you are happy with your changes, commit them with a descriptive message:
-  ```bash
+Once you are happy with your changes, commit them with a descriptive message:
+  ```
   git add .
   git commit -m "Description of changes"
+  ```
 
 ### 5. Push to GitHub
-- Push your changes to your forked repository:
-  ```bash
+Push your changes to your forked repository:
+  ```
   git push origin your-feature-branch
+  ```
 
 6. Submit a Pull Request
-Go to the original repository on GitHub.
+- Go to the original repository on GitHub.
 - Click "New Pull Request".
 - Select your branch and create the pull request.
 - Provide a clear description of the changes you’ve made.
 
 ### 7. Code Review
 A project maintainer will review your pull request.
-- You may be asked to make some adjustments. Once approved, your changes will be merged into the main project.
+You may be asked to make some adjustments. Once approved, your changes will be merged into the main project.
 
 ### Contribution Ideas
 Here are some ways you can contribute:
@@ -53,3 +59,9 @@ Here are some ways you can contribute:
 
 ### Code of Conduct
 Please be respectful when interacting with other contributors. Ensure that all discussions and code reviews are constructive and considerate.
+
+### Additional Steps:
+- Add an `MIT License` file to your repository.
+- Make sure to link these files in the repo to guide contributors efficiently.
+
+This setup encourages open-source collaboration while maintaining structure for future contributions.
