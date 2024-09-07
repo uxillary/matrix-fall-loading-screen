@@ -1,6 +1,5 @@
 ### `CONTRIBUTING.md`
 
-```markdown
 # Contributing to Matrix Fall Loading Screen
 
 Thank you for considering contributing to the Matrix Fall Loading Screen project! Whether you're fixing a bug, adding a new feature, or improving documentation, your contributions are greatly appreciated.
@@ -10,9 +9,10 @@ Thank you for considering contributing to the Matrix Fall Loading Screen project
 ### 1. Fork the Repository
 - Fork the repository by clicking the "Fork" button on the top right corner of the page.
 - Clone your forked repository to your local machine:
-  ```bash
+  ```
   git clone https://github.com/your-username/matrix-fall-loading-screen.git
   cd matrix-fall-loading-screen
+  ```
 
 ### 2. Create a Branch
 - Create a new branch for your contribution:
