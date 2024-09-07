@@ -5,6 +5,7 @@ A Matrix-inspired loading screen with falling code effect for modern websites. B
 ## Demo
 
 Check out the live demo here: [Matrix Loading Screen Demo](#)
+![](https://github.com/uxillary/matrix-fall-loading-screen/blob/main/matrix-code/matrix-loading-screen.gif)
 
 ## Features
 
