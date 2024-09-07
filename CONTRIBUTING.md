@@ -10,7 +10,7 @@ This is an ideal beginner project and good for first issue contributions. Design
 
 ### 1. Fork the Repository
 - Fork the repository by clicking the "Fork" button on the top right corner of the page.
-Clone your forked repository to your local machine:
+- Clone your forked repository to your local machine:
   ```
   git clone https://github.com/your-username/matrix-fall-loading-screen.git
   cd matrix-fall-loading-screen
