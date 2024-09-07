@@ -2,10 +2,7 @@
 
 A Matrix-inspired loading screen with falling code effect for modern websites. Built using HTML5 Canvas, CSS, and JavaScript, this loading screen adds a smooth transition effect when navigating between pages. Easily customizable, with options for different hex colors and animation settings.
 
-## Demo
-
-Check out the live demo here: [Matrix Loading Screen Demo](#)
-![](https://github.com/uxillary/matrix-fall-loading-screen/blob/main/matrix-code/matrix-loading-screen.gif)
+*In Development with intent for open-source collaboration*
 
 ## Features
 
@@ -14,6 +11,12 @@ Check out the live demo here: [Matrix Loading Screen Demo](#)
 - **Smooth Page Transitions**: Display the animation briefly between page changes.
 - **Mobile Friendly**: Optimized for different screen sizes.
 - **Easy Integration**: Minimal setup required.
+
+## Demo
+
+Check out the live demo here: [Matrix Loading Screen Demo](#)
+![](https://github.com/uxillary/matrix-fall-loading-screen/blob/main/matrix-code/matrix-loading-screen.gif)
+
 
 ## Getting Started
 
